@@ -16,7 +16,7 @@ Each vignette is a standalone `.Rmd` file — open it in RStudio, make sure you 
 | Author | Vignette | Package(s) | What It Covers | Dataset |
 |---|---|---|---|---|
 | Mark H. | [Student Mental Health & Burnout](student_mental_health_ggplot2.Rmd) | ggplot2 | geom_histogram, geom_boxplot, geom_point, geom_smooth, geom_bar, facet_wrap | [Kaggle](https://www.kaggle.com/datasets/sharmajicoder/student-mental-health-and-burnout) |
-
+|Michael M.| [Tidyverse Create- Basic Functions] | dplyr| filter(), mutate(), summarize() | https://www.kaggle.com/datasets/azeembootwala/titanic |
 ---
 
 ## How to Contribute
@@ -213,7 +213,8 @@ Initial Description and Link:
 Revision/Addition Description and Link:
 
 # Michael M
-Initial Description and Link:
+Initial Description and Link: Use of Tidyverse in order to show a simple example project including mutate(), filter(), & summarize()
+Data: https://www.kaggle.com/datasets/azeembootwala/titanic [Kaggle]
 
 Revision/Addition Description and Link:
 
